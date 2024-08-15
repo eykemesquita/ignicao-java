@@ -59,3 +59,17 @@ Este repositório contém exemplos de código, exercícios práticos e materiais
 1. Clone o repositório para sua máquina local:
    ```bash
    git clone https://github.com/eykemesquita/ignicao-java.git
+
+   ### Obrigado por visitar e ler meu repositório!
+
+![Agradecimento](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
+
+<br></br>
+CREDENCIAL:⬇️
+<br></br>
+https://app.algaworks.com/certs/QDWLNM3WEX
+
+![Screenshot_1](https://github.com/user-attachments/assets/eaf0a176-779c-452c-9327-f5affba1b82e)
+
+
+   
